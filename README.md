@@ -54,3 +54,8 @@ Usage
 *   **Positioning**: Use the "Loupe position" and "Target coordinates" fields to adjust the magnified area and its location on the screen.
 *   **System Tray Access**: After launching, the app icon will appear in the system tray. You can right-click the icon to open the settings configurator for quick adjustments.
 *   **Response Speed**: The loupe operates with low latency, ideal for situations where fast screen updates are critical.
+
+License
+-------
+
+This project is licensed under the MIT License.
