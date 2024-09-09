@@ -28,7 +28,7 @@ Installation
 `git clone https://github.com/EightShift/TheLoupe.git`
     
 2.  Navigate to the project directory:
-`cd the-loupe`
+`cd TheLoupe`
     
 3.  Install the required dependencies:
 `pip install -r requirements.txt`
